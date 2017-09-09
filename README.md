@@ -1,24 +1,3 @@
-# README
+Url: https://www.youtube.com/watch?v=MpFO4Zr0EPE
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is a project based on the Youtube link provided above. This repo utilizes Ruby on Rails to make an instagram-like web page that allows you to register, login, and post photos with captions, and then the posts will be save to your specific login information (stored in a database).
